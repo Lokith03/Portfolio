@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Personal Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains my personal portfolio website built using HTML, CSS, JavaScript, React, and Python. The portfolio showcases my projects, technical skills, and experience with a focus on modern UI design and smooth animations.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Responsive design for mobile and desktop devices
+- Modern user interface with clean styling
+- Interactive components using JavaScript and React
+- Smooth animations and transitions
+- Project showcase section
+- Contact section
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- React
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Backend:
+- Python
 
-### `npm test`
+Version Control:
+- Git and GitHub
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Installation and Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
+git clone https://github.com/your-username/your-repository-name.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Navigate to the project directory:
+cd your-repository-name
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Install dependencies:
+npm install
 
-### `npm run eject`
+4. Run the application:
+npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Animations
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The portfolio includes animations such as:
+- Fade-in effects
+- Hover transitions
+- Smooth scrolling
+- Component animations using CSS and/or animation libraries
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## About
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project represents my skills in frontend and backend development and demonstrates my ability to build responsive and interactive web applications.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Output
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<img width="1915" height="971" alt="Screenshot 2026-03-29 122702" src="https://github.com/user-attachments/assets/07c66086-aad7-4b3f-9cfb-e0270deaddd4" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<img width="1905" height="974" alt="Screenshot 2026-03-29 122808" src="https://github.com/user-attachments/assets/dc24f6be-967d-4ff6-a888-311d47ca899a" />
 
-### Making a Progressive Web App
+<img width="1892" height="973" alt="Screenshot 2026-03-29 122848" src="https://github.com/user-attachments/assets/e283519f-1d61-42a9-b696-fecd4f38377a" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<img width="1916" height="973" alt="Screenshot 2026-03-29 122917" src="https://github.com/user-attachments/assets/1107ce20-f5c5-4730-9893-1663f8c3a14d" />
 
-### Advanced Configuration
+<img width="1918" height="971" alt="Screenshot 2026-03-29 123014" src="https://github.com/user-attachments/assets/04483b19-ee13-48a2-9ea7-8d994e642a12" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<img width="1919" height="969" alt="Screenshot 2026-03-29 123027" src="https://github.com/user-attachments/assets/8a5ec68c-fb4c-40d2-ab83-c9ffa10247ee" />
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
